@@ -19,7 +19,7 @@ This project aims to analyze customer reviews for airline services to extract va
 - [Results](#results)
 - [Future Improvements](#future-improvements)
 - [Contributors](#contributors)
-- [License](#license)
+
 
 ## Motivation
 
