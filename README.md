@@ -53,8 +53,8 @@ The following technologies were used in this project:
 
 ```plaintext
 Airline Customer Review Sentiment Analysis for Service Improvement/
-├── data/                # Contains datasets used in the analysis
-├── notebooks/           # Jupyter notebooks containing analysis
+├── airlines.csv              # Contains datasets used in the analysis
+├──        # Jupyter notebooks containing analysis
 ├── models/              # Trained machine learning models
 ├── results/             # Analysis results, plots, etc.
 ├── README.md            # Project documentation
